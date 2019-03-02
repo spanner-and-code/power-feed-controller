@@ -1,0 +1,6 @@
+Power Feed Controller v1
+
+The first project I've put up on Github while learning C++ so bear with me :)
+
+I've used this motor controller (http://www.hobbytronics.co.uk/motor-control/dual-6a-dc-motor-controller)
+but you can use a different one by extending the abstract motor controller class.
